@@ -6,7 +6,7 @@ banner:
   image: "/images/barge-small.jpg"
   button:
     enable: true
-    label: "Inquire More"
+    label: "Contact Us"
     link: "#"
 
 # Features
@@ -25,7 +25,7 @@ features:
       link: "#"
 
   - title: "BargeSwift Delivers River Intelligence From Space"
-    image: "/images/service-2.png"
+    image: "/images/process-compose.png"
     content: "Our platform uses satellite imagery and patented analytics to provide timely, accurate barge traffic data."
     bulletpoints:
       - "Tracks **barge numbers**, **fleet size**, and **travel direction** across 2,200+ miles of river."
@@ -34,11 +34,11 @@ features:
       - "Integrates with existing tools for dashboards, forecasting, and operational alerts."
     button:
       enable: true
-      label: "Checkout our Demo"
-      link: "#"
+      label: "Check out our Demo"
+      link: "demo"
 
   - title: "From River to Market: Actionable Insights for Key Players"
-    image: "/images/service-3.png"
+    image: "/images/users-compose.png"
     content: "BargeSwift enables users to respond faster, plan smarter, and reduce financial risk across sectors."
     bulletpoints:
       - "**Agricultural traders** gain live insight into commodity flows and pricing conditions."
@@ -46,7 +46,7 @@ features:
       - "**Barge companies and ports** improve logistics, scheduling, and fleet coordination."
       - "**Government and infrastructure** stakeholders obtain a more responsive monitoring system."
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "Get Started"
+      link: "#"
 ---
