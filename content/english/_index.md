@@ -2,12 +2,12 @@
 # Banner
 banner:
   title: "Close the Information Gap in <br>River Logistics"
-  content: "BargeSwift transforms daily satellite imagery into up-to-date freight movement insights along the Mississippi River—helping you manage commodity risk, shipping delays, and climate disruptions before they hit the market."
+  content: "BargeSwift transforms daily satellite imagery into up-to-date freight movement insights along the Mississippi River—helping you manage commodity risk, shipping delays, and climate disruptions, and infrastructure failures before they hit the market."
   image: "/images/barge-small.jpg"
   button:
     enable: true
     label: "Contact Us"
-    link: "#"
+    link: "contact"
 
 # Features
 features:
@@ -28,9 +28,10 @@ features:
     image: "/images/process-compose.png"
     content: "Our platform uses satellite imagery and patented analytics to provide timely, accurate barge traffic data."
     bulletpoints:
-      - "Tracks **barge numbers**, **fleet size**, and **travel direction** across 2,200+ miles of river."
-      - "Powered by [Planet Labs](https://www.planet.com/products/satellite-imagery-of-earth/) CubeSats with 3m resolution and daily revisit capability."
-      - "Delivers **near real-time** updates through a secure cloud-based API."
+      - "**Full** Mississippi River Transport System coverage (upper and lower Mississippi River, Ohio River, Illinois River, Arkansas River, and Missouri River)."
+      - "Barge travel mode deletion (**fleet size**, **barge numbers**, **upbound/downbound/parking**)."
+      - "**Near real-time** updates with less than 24-hour latency, through a secure cloud-based API."
+      - "**Custumized** inland waterway traffic summary."
       - "Integrates with existing tools for dashboards, forecasting, and operational alerts."
     button:
       enable: true
@@ -48,5 +49,5 @@ features:
     button:
       enable: true
       label: "Get Started"
-      link: "#"
+      link: "contact"
 ---
